@@ -1,0 +1,6 @@
+{
+  "name": "Collide",
+  "description": "Semester workload planner and collision detector for university students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
